@@ -1,6 +1,10 @@
 # calculadora-calculator
 Uma calculadora que realiza operações simples.
-Deploy: <https://domingos3000.github.io/calculadora-calculator/> 
+Link do projeto: <https://dev-dnp.github.io/basic-calculator/> 
+
+## 📷 UI Website
+![UI Website](https://github.com/dev-dnp/basic-calculator/blob/main/assets/image-app.png?raw=true)
+
 
 ## 🚀 Tecnologias
 - 🚀 HTML
